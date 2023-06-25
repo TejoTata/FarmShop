@@ -5,7 +5,7 @@
    <strong>Project Tagline :   </strong>Shop From Anywhere<br>
    <strong>Team Name       :   </strong>The Taskforce Tribe<br>
    <strong>Logo            : <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  <img class='img-circle' src="Images/FarmShop.png" alt="drawing" width=150px  style="border-radius:10px width=50px" />   </strong><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  <img class='img-circle' src="FarmShop.png" alt="drawing" width=150px  style="border-radius:10px width=50px" />   </strong><br>
     
 ## Our Team
 
