@@ -20,11 +20,11 @@
 ## Participants
 |     Team Member          | Role              | 
  -------------             | :-------------:   |
-| Tejo Lakshmi Tata        | UI Developer      |  
+| Person 1   | role |
 | Person 2   | role |
 | Person 3 | role  | 
 | person 4| role |  
-| person 5| role  |
+| Tejo Lakshmi Tata        | UI Developer      |  
 
 ## Key Contributions
 <li>Tejo Lakshmi Tata will be UI Developer in the team</li>
