@@ -23,7 +23,7 @@
 | Person 1   | role |
 | Person 2   | role |
 | Person 3 | role  | 
-| Narayana Potla | Business Analyst |  
+| Narayana Potla | Business Analyst  |  
 | Tejo Lakshmi Tata        | UI Developer      |  
 
 ## Key Contributions
