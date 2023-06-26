@@ -31,7 +31,7 @@
 <li>contribution</li>
 <li>contribution</li>
 <li>contribution</li>
-<li>contribution</li>
+<li>Narayana potla will be as a business analyst</li>
 
 ## Content Summary
 
