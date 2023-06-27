@@ -5,7 +5,7 @@
    <strong>Project Tagline :   </strong>Shop From Anywhere<br>
    <strong>Team Name       :   </strong>The Taskforce Tribe<br>
    <strong>Logo            : <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  <img class='img-circle' src="FarmShopLogo.png" alt="drawing" width=150px  style="border-radius:10px width=50px" />   </strong><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  <img class='img-circle' src="images/FarmShopLogo.png" alt="drawing" width=150px  style="border-radius:10px width=50px" />   </strong><br>
     
 ## Our Team
 
@@ -21,7 +21,7 @@
 |     Team Member          | Role              | 
  -------------             | :-------------:   |
 | Bhavana Malli   | Project Manager |
-| Person 2   | role |
+| Dheeraj krishna Mekala   | Backend developer |
 | Kovidh Kurra | Database Administrator  | 
 | Narayana Potla | Business Analyst  |  
 | Tejo Lakshmi Tata        | UI Developer      |  
