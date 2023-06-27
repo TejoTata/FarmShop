@@ -33,8 +33,6 @@
 <li>Narayana potla will be as a business analyst</li>
 <li>Tejo Lakshmi Tata will be UI Developer in the team</li>
 
-## Content Summary
-
 
 ## Group Plan
 
