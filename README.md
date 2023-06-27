@@ -21,7 +21,7 @@
 |     Team Member          | Role              | 
  -------------             | :-------------:   |
 | Bhavana Malli   | Project Manager |
-| Dheeraj krishna Mekala   | Backend developer |
+| Dheeraj krishna Mekala   | Backend developer (Lead)|
 | Kovidh Kurra | Database Administrator  | 
 | Narayana Potla | Business Analyst  |  
 | Tejo Lakshmi Tata        | UI Developer      |  
