@@ -22,7 +22,7 @@
  -------------             | :-------------:   |
 | Bhavana Malli   | Project Manager |
 | Person 2   | role |
-| Person 3 | role  | 
+| Kovidh Kurra | Database Administrator  | 
 | Narayana Potla | Business Analyst  |  
 | Tejo Lakshmi Tata        | UI Developer      |  
 
